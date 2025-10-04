@@ -1,4 +1,4 @@
-README.md Content
+
 AI-Based Detection of Diabetic Retinopathy Using Retinal Fundus Images 🩺
 This project develops an explainable AI model for the automated detection of diabetic retinopathy (DR), a leading cause of blindness. The model processes retinal fundus images and classifies them into one of five severity classes, providing a fast and accessible screening tool.
 
